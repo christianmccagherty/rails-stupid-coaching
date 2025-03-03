@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.ask {
+  background-color: rgb(235, 235, 235);
+  box-shadow: 1px 1px 15px rgb(237, 237, 238);
+  padding: 24px;
+}
